@@ -1,7 +1,7 @@
 # Programming-Notes-for-Professionals-books
 Programming Notes for Professionals books are , Like :
 
-1..NET Framework Notes for Professionals book [@.NET Framework Notes](https://github.com/fagunti/Programming-Notes-for-Professionals-books/blob/main/DotNETFrameworkNotesForProfessionals.pdf)
+1.[.NET Framework Notes](https://github.com/fagunti/Programming-Notes-for-Professionals-books/blob/main/DotNETFrameworkNotesForProfessionals.pdf) for Professionals book 
 
 2.Algorithms Notes for Professionals book
 
