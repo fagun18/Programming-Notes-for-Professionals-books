@@ -99,4 +99,4 @@ Programming Notes for Professionals books are , Like :
 
 
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="fagun18" data-description="Support me on Buy me a coffee!" data-message="" data-color="#ff813f" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<a href="https://www.buymeacoffee.com/fagun18"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fagun18&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
