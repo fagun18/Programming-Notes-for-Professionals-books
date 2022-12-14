@@ -1,5 +1,5 @@
 # Programming-Notes-for-Professionals-books
-Note: I am Not The Orgenial Owner Of These all Notes Books. All Credit  Goes To goalkicker
+Note: I am Not The Original Owner Of These all Notes Books. All Credit  Goes To goalkicker
 
 Programming Notes for Professionals books are , Like :
 
